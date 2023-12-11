@@ -1,5 +1,7 @@
-**Home Price Factor Analysis**
-*Overview*
+****Home Price Factor Analysis****
+
+
+**Overview**
 This repository holds code and data for analyzing determinants impacting home prices. 
 
 **Key Aspects**
